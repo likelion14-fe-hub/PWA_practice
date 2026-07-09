@@ -11,6 +11,8 @@
 ## 구현 화면
 
 아래는 프로젝트 실행 화면입니다.
+<img width="1919" height="905" alt="image" src="https://github.com/user-attachments/assets/51d25bd4-8109-475f-b86c-f704f4cd84bd" /> | <img width="1919" height="899" alt="image" src="https://github.com/user-attachments/assets/1ea618c4-33e1-477f-9539-97e5a6726164" /> |
+|--|--|
 
 
 ## 실습 진행 방법
